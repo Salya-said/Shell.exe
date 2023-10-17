@@ -1,0 +1,7 @@
+git status
+git add
+ git commit -m
+git remote set-url origin https://github.com/OWNER/REPOSITORY.git
+git remote add origin https://github.com/nomutilisateur/MonProjet.git
+ git remote -v
+git push
